@@ -40,6 +40,7 @@ input:focus {
   border-radius: 2.5rem;
   background-color: #fedc57;
   position: relative;
+  cursor: grab;
 }
 .card .name {
   position: absolute;
